@@ -2,6 +2,8 @@
 
 A simple client-side tool to convert images into 3D printable stamps.
 
+[**Live Demo**](https://marktremmel.github.io/stamp/)
+
 ## Features
 - **Smart Resizing**: Optimized for 0.4mm nozzles.
 - **Contrast Control**: Adjust threshold for perfect black & white stamps.
